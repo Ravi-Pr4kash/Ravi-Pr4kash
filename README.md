@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Prakash</h1>
-<h3 align="center">I'm interested in Web & App Development</h3>
+<h3 align="center">I'm interested in Web Development & DevOps</h3>
 
 ---
 
