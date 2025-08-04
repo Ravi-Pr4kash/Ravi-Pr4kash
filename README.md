@@ -8,7 +8,7 @@
 - 👀 I’m interested in Web & App Development.
 - 🌱 I’m currently learning Full Stack Development.
 - 🌸 I’m looking to collaborate with anyone who's passionate about tech.
-- 📫 How to reach me: **raviprakash0818@gmail.com** *(replace with your actual email)*
+- 📫 How to reach me: **raviprakash0818@gmail.com** 
 
 ---
 
