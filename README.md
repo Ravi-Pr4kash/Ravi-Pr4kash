@@ -8,21 +8,18 @@
 - 👀 I’m interested in Web & App Development.
 - 🌱 I’m currently learning Full Stack Development.
 - 🌸 I’m looking to collaborate with anyone who's passionate about tech.
-- 📫 How to reach me: **raviprakash@example.com** *(replace with your actual email)*
+- 📫 How to reach me: **raviprakash0818@gmail.com** *(replace with your actual email)*
 
 ---
 
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ravi-prakash-sharma-b33576307/)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="blank">
+  <a href="[https://twitter.com/yourhandle](https://x.com/RaviPr4kash)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="30" />
   </a>
 </p>
 
